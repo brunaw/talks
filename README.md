@@ -52,4 +52,7 @@ A repository that links all my talks
 - [Tutorial: R básico + dplyr](http://brunaw.com/slides/rladies-sp/13-08-2018/meetup.html)
   - Git Repository: https://github.com/brunaw/rladies-meetup-sp/
 
+# Miscellaneous
+
+  - [RStudio Conference 2020 Summary](http://brunaw.com/slides/conferences/rstudio2020/summary.html)
 
